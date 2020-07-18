@@ -2,7 +2,7 @@
 Kubernetes是一个开源的，用于管理云平台中多个主机上的容器化的应用，Kubernetes的目标是让部署容器化的应用简单并且高效（powerful）,Kubernetes提供了应用部署，规划，更新，维护的一种机制。
 
 ## 构成
-[k8s架构](achitecture.png)
+![k8s架构](achitecture.png)
 
 ### pod
 一个服务的最小服务单元，同一个服务可存在多个pod，多个pod之间使用相同的镜像及环境变量。
